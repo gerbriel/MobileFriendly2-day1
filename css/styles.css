@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+p{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+h3{
+    padding-left: 200px;
+    padding-right: 200px;
+    color: teal;
+}
+.heading2{
+    text-align: right;
+    
+}
+.section1{
+ text-align: left;
+}
+.section2{
+    text-align: right;
+   }
+   .footer{
+       background-color: teal;
+       height: 40px;
+       text-align: center;
+       padding-top: 40px;
+      margin-top: 50px;
+   }
+   .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   
+   .title{
+    position: absolute;
+    color: white;
+   }
